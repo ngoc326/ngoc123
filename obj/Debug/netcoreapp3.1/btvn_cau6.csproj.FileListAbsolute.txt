@@ -1,0 +1,13 @@
+E:\visual\btvn_cau6\bin\Debug\netcoreapp3.1\btvn_cau6.exe
+E:\visual\btvn_cau6\bin\Debug\netcoreapp3.1\btvn_cau6.deps.json
+E:\visual\btvn_cau6\bin\Debug\netcoreapp3.1\btvn_cau6.runtimeconfig.json
+E:\visual\btvn_cau6\bin\Debug\netcoreapp3.1\btvn_cau6.runtimeconfig.dev.json
+E:\visual\btvn_cau6\bin\Debug\netcoreapp3.1\btvn_cau6.dll
+E:\visual\btvn_cau6\bin\Debug\netcoreapp3.1\btvn_cau6.pdb
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.csprojAssemblyReference.cache
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.csproj.CoreCompileInputs.cache
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.AssemblyInfoInputs.cache
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.AssemblyInfo.cs
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.dll
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.pdb
+E:\visual\btvn_cau6\obj\Debug\netcoreapp3.1\btvn_cau6.genruntimeconfig.cache

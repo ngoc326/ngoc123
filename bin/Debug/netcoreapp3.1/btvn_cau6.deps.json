@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "btvn_cau6/1.0.0": {
+        "runtime": {
+          "btvn_cau6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "btvn_cau6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
